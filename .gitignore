@@ -1,0 +1,27 @@
+# Compiled files
+*.class
+out/
+target/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code (keep local settings out of the repo)
+.vscode/
+
+# Eclipse / NetBeans
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs / temp
+*.log
+*.tmp
