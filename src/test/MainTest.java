@@ -23,7 +23,7 @@ public class MainTest {
 
         // 2. Create a department (composition: it holds its employees)
         List<Employee> initial = new ArrayList<>();
-        initial.add(sara);
+        initial.add(sara);uyfiufiu
         initial.add(omar);
         Department sales = new Department(10, "Sales", sara, initial);
 
